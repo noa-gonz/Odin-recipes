@@ -1,0 +1,17 @@
+body {
+    margin: 24px;
+}
+
+ol li {
+    margin-bottom: 12px;
+}
+
+img {
+    margin-bottom: 24px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
